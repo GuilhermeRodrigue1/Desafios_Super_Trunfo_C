@@ -60,7 +60,7 @@ int main(){
     printf("Carta 2:\nEstado: %c\nCodigo: %c%s\nNome da cidade: %s\nPopulacao: %i\nArea: %.2f\nPIB: %.2f Bilhoes de reais\nNumeros de ponto turisticos: %i\n", Estado2, Estado2, CodigoCarta2, NomeCidade2, PopulacaoEstado2, AreaCidade2, PIBCidade2, PontosTuristicosCidade2);
 
     /*
-     * Exibindo no teerminal as informações coletadas atraves do "scanf".
+     * Exibindo no teerminal as informações coletadas atraves do "scanf()"
      */
 
     return 0;
